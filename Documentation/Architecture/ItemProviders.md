@@ -25,7 +25,7 @@ uses guid as key
 Single document type, contains dependencies on its used datatypes, allowed templates, composite document types, dictionary items used in labels, 
 uses alias as key
 
-    d8e6ad84-e73a-11df-9492-0800200c9a66;
+    d8e6ad84-e73a-11df-9492-0800200c9a66
 
 ##File
 Single file as a dependence, rarely used, 
